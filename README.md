@@ -25,11 +25,11 @@ $ bash kakariuke_bash.sh
 
 ## Demo
 
-![gif](https://github.com/cipepser/kakariuke/blob/media/kakariuke.gif)
+![gif](https://github.com/cipepser/kakariuke/blob/master/blob/media/kakariuke.gif)
 
 The result is like following image.
 
-![result](https://github.com/cipepser/kakariuke/blob/media/out.png)
+![result](https://github.com/cipepser/kakariuke/blob/master/blob/media/out.png)
 
 ## Installation
 
