@@ -6,15 +6,16 @@ kakariuke analyze your standard input sentence in Japanese by CaboCha, and make 
 
 kakariruke is execeuted in command-line shell script, you can use it like below:
 
-``` for fish
-
+```
+// for fish
 $ fish kakariuke.sh
 係り受け解析をしたい文章を入力してください。
 read> // please input your sentence, then you will get the di-graph.
 
 ```
 
-``` for bash
+```
+// for bash
 
 $ bash kakariuke_bash.sh
 係り受け解析をしたい文章を入力してください。
@@ -28,7 +29,7 @@ $ bash kakariuke_bash.sh
 
 The result is like following image.
 
-![result](https://github.com/cipepser/kakariuke/blob/media/kakariuke.gif)
+![result](https://github.com/cipepser/kakariuke/blob/media/out.png)
 
 ## Installation
 
